@@ -1,0 +1,45 @@
+#title{
+    background-color: #213555;
+}
+.head1{
+    text-align: center;
+    background-color: #D8C4B6;
+}
+/*navigation bar*/
+
+.nav-item{
+    padding: 0 18px;
+}
+.nav-link{
+    font-size: 1.2rem;
+    font-family: "montserrat";
+    font-weight:500;
+}
+.dropdown-item{
+    font-family: "montserrat";
+    background-color: white;
+    
+}
+.dropdown-item:hover{
+    background-color: #A1C2F1;
+}
+
+/* carousel*/
+.carousel-item{
+    padding: 3% 10%;
+}
+.btn2{
+    padding: 15% 35%;
+}
+/* homepage */ 
+
+#homepage{
+    text-align: center;
+    font-family: "montserrat";
+    color: white;
+    padding: 0% 12%;
+}
+.card-header{
+    background-color:#4F709C;
+    color: white;
+}
